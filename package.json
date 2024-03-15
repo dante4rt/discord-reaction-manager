@@ -1,6 +1,6 @@
 {
   "name": "discord-reaction-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple package for managing reactions on Discord messages",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/dante4rt/discord-reaction-manager#readme",
   "dependencies": {
     "discord-server-utils": "^1.0.0",
-    "discord-simple-api": "^1.0.6"
+    "discord-simple-api": "^1.0.6",
+    "telegram-snippet-post": "^1.0.0"
   }
 }
